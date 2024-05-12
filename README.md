@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects building on Starknet & Solana
 - 📫 How to reach me twitter @hederawrites discord @hederawrites
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love trying new resturants
+- ⚡ Fun fact: I love music
 
 <!---
 thehederawrites/thehederawrites is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
